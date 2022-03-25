@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c4/31/dd/c431dd7de99862ddb61c5d5f6d56041c.gif)](https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif)
+<img align="center" alt="Coding2"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f56a8fdf-960e-4163-90d1-2070ddd3e5b1/ddh56mo-d029abf0-450e-4fcc-a67b-56925da8eaa6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1NmE4ZmRmLTk2MGUtNDE2My05MGQxLTIwNzBkZGQzZTViMVwvZGRoNTZtby1kMDI5YWJmMC00NTBlLTRmY2MtYTY3Yi01NjkyNWRhOGVhYTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fKSSXi3femk9XsUAIY9lRB_IopZHiHS-uaap59I5ZQk">
 <h1 align="center">Hi 👋, I'm Juan Sebastian Sotomayor</h1>
 <h3 align="center">A Full Stack developer and Mechatronics Engineer from Ecuador</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
