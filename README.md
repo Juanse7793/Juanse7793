@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, Ruby on Rails, Docker**
 
-- 💬 Ask me about **React.js, Redux, Ruby, Javascript, HTML, CSS, Webpack, Figma**
+- 💬 Ask me about **React.js, Redux, Ruby, Javascript, HTML, CSS, SQL, Databases, Webpack, Figma**
 
 - 📫 How to reach me **juanse_sotomayor@hotmail.com**
 
