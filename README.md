@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/juanse77930" target="blank"><img src="https://img.shields.io/twitter/follow/juanse77930?logo=twitter&style=for-the-badge" alt="juanse77930" /></a> </p>
 
-- 🔭 I’m currently Working on **Microverse**
+- 🔭 I’m currently Working on **Kruger Corp**
 
-- 🌱 I’m currently learning **Django, .Net, Docker**
+- 🌱 I’m currently learning **Django, .Net**
 
 - 💬 Ask me about **Ruby on Rails, React.js, Redux, Ruby, Javascript, HTML, CSS, SQL, Databases, Webpack, Figma**
 
