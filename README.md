@@ -1,11 +1,14 @@
-<img align="center" alt="Coding2"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f56a8fdf-960e-4163-90d1-2070ddd3e5b1/ddh56mo-d029abf0-450e-4fcc-a67b-56925da8eaa6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1NmE4ZmRmLTk2MGUtNDE2My05MGQxLTIwNzBkZGQzZTViMVwvZGRoNTZtby1kMDI5YWJmMC00NTBlLTRmY2MtYTY3Yi01NjkyNWRhOGVhYTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fKSSXi3femk9XsUAIY9lRB_IopZHiHS-uaap59I5ZQk">
-<h1 align="center">Hi 👋, I'm Juan Sebastian Sotomayor</h1>
-<h3 align="center">Sr. Software Engineer & Tech Lead | AI Engineer | Full-Stack Developer — from Ecuador 🇪🇨</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22d3ee,50:6366f1,100:a78bfa&text=Juan%20Sebastian%20Sotomayor&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Sr.%20Software%20Engineer%20%26%20Tech%20Lead%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16&animation=fadeIn" alt="header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanse7793&label=Profile%20views&color=0e75b6&style=flat" alt="Juanse7793" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Sr.+Software+Engineer+%26+Tech+Lead;AI+Engineer+%7C+Claude+%26+Gemini;Full-Stack+%7C+React+%7C+Next.js+%7C+TypeScript;8%2B+years+building+scalable+web+apps" alt="typing" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/juanse77930" target="blank"><img src="https://img.shields.io/twitter/follow/juanse77930?logo=twitter&style=for-the-badge" alt="juanse77930" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanse7793&label=Profile%20views&color=6366f1&style=for-the-badge" alt="profile views" />
+</p>
 
 - 🌐 Check out my portfolio: **[juanse793-portfolio.vercel.app](https://juanse793-portfolio.vercel.app/)**
 
@@ -23,20 +26,36 @@
 
 - ⚡ Fun fact **I'm also Drummer, Center Forward and Volley player** 🥁⚽🏐
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me
+
 <p align="left">
-<a href="https://juanse793-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
-<a href="https://twitter.com/@juanse77930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juanse77930" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/juansebastiansotomayor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juansebastiansotomayor" height="30" width="40" /></a>
-<a href="https://fb.com/juansebastian.sotomayor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan sebastian sotomayor" height="30" width="40" /></a>
+  <a href="https://juanse793-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/juansebastiansotomayor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/juanse77930" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://wa.me/593998598121" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:juanse_sotomayor@hotmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,angular,nodejs,nestjs,django,py,rails,ruby,java,graphql,aws,docker,kubernetes,jenkins,postgres,mysql,mongodb,redis,git,figma,linux,arduino&perline=9" alt="tech stack" />
+</p>
 
 ## ⭐ Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=juanse7793&langs_count=8&show_icons=true&theme=synthwave&locale=en&layout=compact)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanse7793&theme=synthwave&show_icons=true&locale=en)]()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanse7793&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9&ring_color=a78bfa" alt="GitHub stats" />
+</p>
 
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanse7793&theme=synthwave)]()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanse7793&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juanse7793&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a78bfa,50:6366f1,100:22d3ee&section=footer" alt="footer" />
+</div>
