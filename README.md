@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22d3ee,50:6366f1,100:a78bfa&text=Juan%20Sebastian%20Sotomayor&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Sr.%20Software%20Engineer%20%26%20Tech%20Lead%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22d3ee,50:6366f1,100:a78bfa&section=header&text=Juan%20Sebastian%20Sotomayor&fontColor=ffffff&fontSize=42&fontAlignY=38" alt="header" />
 </div>
 
 <div align="center">
@@ -43,14 +43,6 @@
 </p>
 
 ## ⭐ Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanse7793&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9&ring_color=a78bfa" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanse7793&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=juanse7793&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
