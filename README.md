@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:22d3ee,50:6366f1,100:a78bfa&section=header&text=Juan%20Sebastian%20Sotomayor&fontColor=ffffff&fontSize=42&fontAlignY=38" alt="header" />
-</div>
+<img align="center" alt="Coding2"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f56a8fdf-960e-4163-90d1-2070ddd3e5b1/ddh56mo-d029abf0-450e-4fcc-a67b-56925da8eaa6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1NmE4ZmRmLTk2MGUtNDE2My05MGQxLTIwNzBkZGQzZTViMVwvZGRoNTZtby1kMDI5YWJmMC00NTBlLTRmY2MtYTY3Yi01NjkyNWRhOGVhYTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fKSSXi3femk9XsUAIY9lRB_IopZHiHS-uaap59I5ZQk">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Sr.+Software+Engineer+%26+Tech+Lead;AI+Engineer+%7C+Claude+%26+Gemini;Full-Stack+%7C+React+%7C+Next.js+%7C+TypeScript;8%2B+years+building+scalable+web+apps" alt="typing" />
